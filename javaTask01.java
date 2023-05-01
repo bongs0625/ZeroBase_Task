@@ -1,3 +1,10 @@
+/*
+임근봉
+
+제로베이스 과제01
+String.format()을 활용한 구구단 출력
+*/
+
 public class task {
     public static void main(String[] args) {
 
@@ -12,10 +19,3 @@ public class task {
         }
     }
 }
-
-/*
-임근봉
-
-제로베이스 과제01
-String.format()을 활용한 구구단 출력
-*/
