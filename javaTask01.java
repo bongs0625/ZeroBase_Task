@@ -1,8 +1,8 @@
+# ZeroBase_BackEndSchool_Task
 /*
-임근봉
+백엔드스쿨_13기_임근봉
 
-제로베이스 과제01
-String.format()을 활용한 구구단 출력
+과제01. 콘솔 화면에 구구단 출력하기
 */
 
 public static void main(String[] args) {
